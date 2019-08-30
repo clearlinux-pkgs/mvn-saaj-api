@@ -4,7 +4,7 @@
 #
 Name     : mvn-saaj-api
 Version  : 1
-Release  : 1
+Release  : 2
 URL      : https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.5/saaj-api-1.3.5-sources.jar
 Source0  : https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.5/saaj-api-1.3.5-sources.jar
 Source1  : https://repo.maven.apache.org/maven2/javax/xml/soap/saaj-api/1.3.5/saaj-api-1.3.5.jar
